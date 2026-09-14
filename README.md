@@ -50,4 +50,4 @@ I run **MAQTA Studio**, a creative and digital solutions studio working across w
 
 ---
 
-Currently building a focused portfolio of real-world style projects across React, Angular, PHP, APIs, and modern front-end development.
+Available for freelance web development and design projects, from responsive websites and e-commerce experiences to dashboards and API-driven applications.
